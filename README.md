@@ -1,2 +1,2 @@
 # TimeConversion
-The conversion of each country's timings would be done using this java program.
+The conversion of each country's timings would be done using this java program. Time conversion by country is the process of converting a given time or date from one time zone to another, typically to accommodate international or cross-time zone operations. It is essential in various contexts, including travel, global communication, and business operations, where individuals or systems need to synchronize events or appointments across different regions of the world.
